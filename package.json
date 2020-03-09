@@ -15,6 +15,6 @@
   },
   "scripts": {
     "test-color": "jest",
-    "test": " jest"
+    "test": "CI =true jest"
   }
 }
